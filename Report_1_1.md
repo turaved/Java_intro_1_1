@@ -1,4 +1,4 @@
-# Отчёт о тестировании <KeyValidator.class>
+# Отчёт о тестировании KeyValidator.class
 
 ## Краткое описание
 
@@ -15,6 +15,9 @@
 
 Запустить приложение KeyValidator c ключом из списка ключей командой вида:
 $ java KeyValidator <ключ>
+Ожидаемый результат: 
+Result for <ключ>: OK - для валидных ключей
+Result for <ключ>: FAIL - для невалидных ключей
 
 В качестве тестовых данных использовались данные из Руководства использования KeyValidator:
 * https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
