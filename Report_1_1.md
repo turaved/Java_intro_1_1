@@ -13,14 +13,14 @@
 
 ## Описание процесса тестирования
 
-Запустить приложение KeyValidator c ключом из списка ключей командой вида:
+Запустить приложение KeyValidator c ключом из списка ключей командой вида: 
 $ java KeyValidator <ключ>
 Ожидаемый результат: 
 Result for <ключ>: OK - для валидных ключей
 Result for <ключ>: FAIL - для невалидных ключей
 
 В качестве тестовых данных использовались данные из Руководства использования KeyValidator:
-* https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
+* [Инструкция](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 Тестирование производилось в следующем окружении:
 * Windows 10, 64-разрядная операционная система
