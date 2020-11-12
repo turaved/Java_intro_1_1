@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты: 
-* при проверке валидного ключа **387eedc6-12e9-3b32-9881-63b6b5e85317** получен результат **FAIL** [issue](https://github.com/turaved/Java_intro_1_1/issues/1#issue-740128409)
+* при проверке валидного ключа **387eedc6-12e9-3b32-9881-63b6b5e85317** получен результат **FAIL** [issue](https://github.com/turaved/Java_intro_1_1/issues/1issue-740128409)
 * при проверке валидного ключа **80b427f8-92cd-3aae-ba04-3927fbe17c6** получен результат **FAIL** [issue](https://github.com/turaved/Java_intro_1_1/issues/1#issue-740128409)
 * при проверке невалидного ключа **2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1** получен результат **ОК** [issue](https://github.com/turaved/Java_intro_1_1/issues/2#issue-740129817)
 
