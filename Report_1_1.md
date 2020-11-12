@@ -7,8 +7,8 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты: 
-* [Валидные ключи не проходят валидацию](https://github.com/turaved/Java_intro_1_1/issues/1issue-740128409)
-* [Невалидный ключ проходит валидацию](https://github.com/turaved/Java_intro_1_1/issues/2issue-740129817)
+* [Валидные ключи не проходят валидацию](https://github.com/turaved/Java_intro_1_1/issues/1#issue-740128409)
+* [Невалидный ключ проходит валидацию](https://github.com/turaved/Java_intro_1_1/issues/2#issue-740129817)
 
 ## Описание процесса тестирования
 
